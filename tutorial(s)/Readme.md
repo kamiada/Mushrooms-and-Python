@@ -1,2 +1,2 @@
 ## About
-This subfolder was created in order to practise with JupyterNotebook and Python's data science libraries, in order to learn more about them and have more controlled and explained (via tutorials) space to explore them. It's more of a background for the main project - mushrooms dataset. 
+This subfolder was created in order to practise with JupyterNotebook and Python's data science libraries, in order to learn more about them and have more controlled and explained (via tutorials) space to explore them. It's more of a background for the main project - mushrooms dataset.  
